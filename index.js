@@ -1,5 +1,4 @@
 const convert = require('xml-js');
-const location = 'C:\\Users\\idank\\Desktop\\itur_ramot_data_final.xml';
 const fs = require('fs');
 
 const parseXmlToObj = (location) => {
